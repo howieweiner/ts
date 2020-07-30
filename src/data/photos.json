@@ -1,0 +1,15 @@
+[
+    {
+        "description": "Ziggy as a puppy",
+        "path": "/images/ziggy_puppy.jpg"
+    },
+    {
+        "description": "Ziggy in the garden",
+        "path": "/images/ziggy_garden.jpg"
+    },
+    {
+        "description": "Ziggy on his chair",
+        "path": "/images/ziggy_chair.jpg"
+    }
+]
+
